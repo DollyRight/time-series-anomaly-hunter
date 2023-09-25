@@ -1,0 +1,14 @@
+server:
+  host: "localhost"
+  port: 5050
+  apiPrefix: "api"
+  apiVersion: "V0.1"
+  mode: "develop"
+postgres:
+  host: "localhost"
+  port: 5432
+  username: "root"
+  password: "qazxcv"
+  dbname: "ts-anomaly-hunter"
+
+
